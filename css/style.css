@@ -1,12 +1,22 @@
+html {
+display: flex;
 
+}
 
+img {
+    max-width: 100%;
+    height: auto;
+}
 
+.bloco {
+width: 300px;
+height: 300px;
+}
 
-
-
-
-.bannerPrincipal {
-width: 100%;;
-
-
+.categorias {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 20px;
+   
 }
