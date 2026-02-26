@@ -1,0 +1,10 @@
+body {
+    min-height: 100vh;
+
+    background: linear-gradient(rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0.3)) ,url('../img/fundo/FundoShow1.png') ;
+
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+    
+}
