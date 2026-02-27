@@ -1,6 +1,6 @@
 html {
 display: flex;
-
+margin: 0px;
 }
 
 img {
@@ -19,4 +19,25 @@ height: 300px;
     justify-content: space-around;
     padding: 20px;
    
+}
+
+h1 {
+font-family: 'Fantasy', 'Arial', sans-serif;
+text-transform: uppercase;
+font-weight: bold;
+} 
+
+h2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: normal;
+}
+
+.BlocoShow {
+display: flex;
+
+gap: 30px;
+background-color: rgb(255, 255, 235);
+}
+.video {
+
 }
