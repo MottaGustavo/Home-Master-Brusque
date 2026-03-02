@@ -39,6 +39,7 @@ h3 {
 
 .Bloco2Show {
     display: flex;
+        width: 100%;
 }
 
 .Video,
@@ -80,9 +81,10 @@ h3 {
 
 .escritaEbotao {
 text-align: center;
-
+display: flex;
+flex-direction: column;
+align-items: center;
 }
-
 
 .BtnRegulamentacao {
 display: flex;
