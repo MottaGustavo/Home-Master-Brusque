@@ -78,12 +78,20 @@ h3 {
 
 }
 
+.escritaEbotao {
+text-align: center;
+
+}
+
+
 .BtnRegulamentacao {
+display: flex;
+font-size: 22px;
 color: rgb(255, 255, 250);
 background-color: #303030;
 padding: 10px 80px;
+border-radius: 5px;
 }
-
 .BtnRegulamentacao:hover {
 background-color: #ab1c21;
 color: rgb(255, 255, 250);
