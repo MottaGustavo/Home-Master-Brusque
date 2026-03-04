@@ -104,8 +104,16 @@ color: rgb(255, 255, 250);
 }
 
 
-.bloco {
+.blocoVertical {
     display: flex;
     width: 375px;
     height: 447px;
+}
+
+.blocoHorizontal {
+    display: flex;
+    width: 533px;
+    height: 360px;
+
+
 }
