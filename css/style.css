@@ -99,15 +99,24 @@ color: rgb(255, 255, 250);
 
 .categorias {
     display: flex;
-    margin: 100px;
-    
+    margin: 100px 0px;
+    width: 100%;
+    height: auto;
+    justify-content: center;
+    flex-direction: row ;
 }
-
 
 .blocoVertical {
     display: flex;
+   width: 80%;
+   height: auto;
+    padding: 0px;
+    margin: 0px;
+}
+.imgVertical {
     width: 375px;
-    height: 447px;
+    height: 600px;
+
 }
 
 .blocoHorizontal {
