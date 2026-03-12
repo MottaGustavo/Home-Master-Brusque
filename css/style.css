@@ -121,10 +121,17 @@ h3 {
 
 }
 
+.bannerMeio {
+    display: block;
+    width: 100%;
+    height: auto;
+    margin-bottom: 100px;
+}
+
 .categoriasHorizontal {
     display: flex;
     padding: 0px 5px;
-    
+
 }
 
 .blocoHorizontal {
